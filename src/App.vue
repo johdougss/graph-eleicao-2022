@@ -14,7 +14,7 @@ export default {
   name: 'App',
   components: {
     HelloWorld,
-    Dashboard,
+    Dashboard2,
   },
 };
 </script>
